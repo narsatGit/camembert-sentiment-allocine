@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.py[cod]
+*.pyo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers VSCode
+.vscode/
+
+mon_modele.pthy
+test.py
