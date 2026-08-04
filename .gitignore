@@ -11,5 +11,7 @@ desktop.ini
 # Fichiers VSCode
 .vscode/
 
-mon_modele.pthy
+# Broillons
+mon_modele.pth
 test.py
+01_charger_donnees.py
