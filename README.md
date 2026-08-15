@@ -1,6 +1,6 @@
 # Classificateur de sentiment PyTorch from scratch - Allociné
 
-Classificateur binaire de sentiment (positif/négatif) sur des critiques de films en français, entraîné **from scratch** avec PyTorch sans HuggingFace, sans modèle pré-entraîné. Ce projet constitue la baseline du dépôt, avant comparaison avec une approche par fine-tuning de CamemBERT.
+Classificateur binaire de sentiment (positif/négatif) sur des critiques de films en français, entraîné **from scratch** avec PyTorch sans HuggingFace, sans modèle pré-entraîné. Ce projet constitue la baseline du dépôt, avant comparaison avec une approche par [fine-tuning de CamemBERT](https://github.com/narsatGit/camembert-sentiment-allocine-2).
 
 ## Approche technique
 
